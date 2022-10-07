@@ -1,0 +1,96 @@
+/*selector {
+    Property: value;
+}*/ 
+h1 {
+	
+	text-align: center;
+	text-decoration: underline;
+	font-style: italic;
+	font-size: 70px;
+} 
+
+h1 hover {
+	
+  transition-duration: 2s;
+
+}
+
+p {
+
+
+	color: black;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+body {
+
+	color: black;
+}
+
+head {
+
+	background-color: yellow;
+}
+
+.boxmodel {
+
+	border:5px solid red;
+	display: inline-block;
+	padding:5px 20px;
+	margin: 0px 20px;
+	width: 25px 25;
+	height: 25px 25; 
+}
+
+span {
+
+	font-size: 50px
+}
+
+img {
+
+	width: 250px;
+	height: 250px;
+	float: center;
+}
+
+.only {
+
+	size: : 250px;
+	height: 250px;
+	float: right;
+}
+
+
+.btn {
+
+	font-weight: 700;
+	border-radius: .5rem;
+	background-color: blue;
+	color: white;
+
+}
+
+.button hover {
+  transition-duration: 2s;
+  padding: 700;
+  size: 500;
+  color: orange;
+
+}
+
+div.col {
+
+	font-style: cursive; 
+	font-size: 25px;
+}
+
+div.subhead {
+
+    margin-top: 80px;
+	color: black;
+	font-size: 20px;
+	text-decoration: underline;
+}
+

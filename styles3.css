@@ -1,0 +1,60 @@
+/*selector {
+    Property: value;
+}*/ 
+
+h1 {
+	
+	text-align: center;
+	display: inline;
+	color: blue;
+	text-decoration: underline;
+	text-decoration-color: black;
+	
+} 
+
+h1 hover {
+	
+  transition-duration: 2s;
+
+}
+
+
+body {
+
+	color: black;
+}
+
+
+p {
+
+
+	text-transform: uppercase;
+	color: white;
+	
+}
+
+
+.grid-container {
+
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  height: 400px;
+  align-content: center;
+  align-content: space-around;
+}
+
+img {
+
+	size: 900px;
+}
+
+
+
+
+
+
+
+
+
+
+
